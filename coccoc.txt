@@ -1,0 +1,2 @@
+Web.Contents("https://cp.qc.coccoc.com/user/stat/376029?start-date=<yyyy-mm-dd>&end-date=<yyyy-mm-dd>&export=xls&group_by=day", 
+            [Headers=[Cookie=<your cookie>]]), null, true),
