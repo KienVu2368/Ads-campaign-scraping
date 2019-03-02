@@ -24,4 +24,4 @@ r = s.post('https://<domain>.activehosted.com/admin/login.php',
        headers = header,
        data=login_data)
 
-r = s.get("https://luxstay69257.activehosted.com/admin/api.php?jq=1&f=report.report_campaigns&rand=0.6297052103720981&p[]=<page number>&p[]=01D&p[]=&p[]=0&p[]=%7C&p[]=0&p[]=0&p[]=undefined")
+r = s.get("https://<domain>.activehosted.com/admin/api.php?jq=1&f=report.report_campaigns&rand=0.6297052103720981&p[]=<page number>&p[]=01D&p[]=&p[]=0&p[]=%7C&p[]=0&p[]=0&p[]=undefined")
